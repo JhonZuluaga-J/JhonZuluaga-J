@@ -1,13 +1,98 @@
-<svg width="800" height="160" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    .name { fill: #e6edf3; font-size: 34px; font-family: monospace; font-weight: bold; }
-    .role { fill: #58a6ff; font-size: 15px; font-family: monospace; }
-    .border { fill: none; stroke: #30363d; stroke-width: 1; }
-  </style>
+<svg width="800" height="180" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0a0a1a"/>
+      <stop offset="60%" stop-color="#0d1f3c"/>
+      <stop offset="100%" stop-color="#1a3a1a"/>
+    </linearGradient>
+    <linearGradient id="goldText" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffe066"/>
+      <stop offset="100%" stop-color="#c8860a"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="softglow">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
 
-  <rect width="800" height="160" fill="#0d1117"/>
-  <rect class="border" x="1" y="1" width="798" height="158" rx="6"/>
+  <rect width="800" height="180" fill="url(#sky)"/>
 
-  <text x="40" y="80" class="name">Jhon Zuluaga</text>
-  <text x="40" y="112" class="role">Backend  •  AI  •  RAG Systems</text>
+  <circle cx="50"  cy="20" r="1" fill="white" opacity="0.6"/>
+  <circle cx="120" cy="10" r="1" fill="white" opacity="0.4"/>
+  <circle cx="200" cy="30" r="1" fill="white" opacity="0.7"/>
+  <circle cx="310" cy="8"  r="1" fill="white" opacity="0.5"/>
+  <circle cx="420" cy="18" r="1" fill="white" opacity="0.6"/>
+  <circle cx="530" cy="12" r="1" fill="white" opacity="0.4"/>
+  <circle cx="640" cy="25" r="1" fill="white" opacity="0.7"/>
+  <circle cx="720" cy="9"  r="1" fill="white" opacity="0.5"/>
+  <circle cx="770" cy="35" r="1" fill="white" opacity="0.3"/>
+  <circle cx="85"  cy="45" r="1" fill="white" opacity="0.4"/>
+  <circle cx="460" cy="40" r="1" fill="white" opacity="0.5"/>
+
+  <circle cx="730" cy="38" r="18" fill="#e8e0c8" opacity="0.9" filter="url(#softglow)"/>
+  <circle cx="738" cy="32" r="14" fill="#0d1f3c"/>
+
+  <rect x="0" y="148" width="800" height="32" fill="#3d2b1a"/>
+  <rect x="0" y="143" width="800" height="8" fill="#2d6b1a"/>
+
+  <rect x="10"  y="138" width="4" height="6" fill="#3a8a22"/>
+  <rect x="30"  y="136" width="4" height="8" fill="#3a8a22"/>
+  <rect x="55"  y="139" width="4" height="5" fill="#3a8a22"/>
+  <rect x="80"  y="137" width="4" height="7" fill="#3a8a22"/>
+  <rect x="110" y="139" width="4" height="6" fill="#3a8a22"/>
+  <rect x="150" y="136" width="4" height="8" fill="#3a8a22"/>
+  <rect x="190" y="138" width="4" height="6" fill="#3a8a22"/>
+  <rect x="600" y="137" width="4" height="7" fill="#3a8a22"/>
+  <rect x="640" y="139" width="4" height="5" fill="#3a8a22"/>
+  <rect x="680" y="136" width="4" height="8" fill="#3a8a22"/>
+  <rect x="720" y="138" width="4" height="6" fill="#3a8a22"/>
+  <rect x="760" y="137" width="4" height="7" fill="#3a8a22"/>
+
+  <rect x="20" y="100" width="6" height="44" fill="#5c3a1a"/>
+  <rect x="8"  y="80"  width="30" height="8"  fill="#2d6b1a"/>
+  <rect x="12" y="72"  width="22" height="8"  fill="#2d8a22"/>
+  <rect x="16" y="64"  width="14" height="10" fill="#3aaa2a"/>
+  <rect x="20" y="56"  width="6"  height="10" fill="#3aaa2a"/>
+
+  <rect x="770" y="104" width="6" height="40" fill="#5c3a1a"/>
+  <rect x="758" y="84"  width="30" height="8"  fill="#2d6b1a"/>
+  <rect x="762" y="76"  width="22" height="8"  fill="#2d8a22"/>
+  <rect x="766" y="68"  width="14" height="10" fill="#3aaa2a"/>
+  <rect x="770" y="60"  width="6"  height="10" fill="#3aaa2a"/>
+
+  <rect x="375" y="95"  width="16" height="14" fill="#f5c8a0"/>
+  <rect x="375" y="93"  width="16" height="4"  fill="#8B4513"/>
+  <rect x="378" y="100" width="3"  height="3"  fill="#222"/>
+  <rect x="386" y="100" width="3"  height="3"  fill="#222"/>
+  <rect x="373" y="109" width="20" height="18" fill="#4a90d9"/>
+  <rect x="373" y="124" width="20" height="3"  fill="#c8860a"/>
+  <rect x="373" y="127" width="8"  height="14" fill="#2a5aa0"/>
+  <rect x="385" y="127" width="8"  height="14" fill="#2a5aa0"/>
+  <rect x="393" y="90"  width="4"  height="30" fill="#c8c8c8"/>
+  <rect x="388" y="105" width="14" height="4"  fill="#c8860a"/>
+  <rect x="357" y="107" width="18" height="4"  fill="#8B6914"/>
+  <rect x="353" y="102" width="8"  height="8"  fill="#aaaaaa"/>
+
+  <rect x="0" y="0" width="800" height="180" fill="none" stroke="#c8860a" stroke-width="3"/>
+  <rect x="0"   y="0"   width="16" height="4"  fill="#c8860a"/>
+  <rect x="0"   y="0"   width="4"  height="16" fill="#c8860a"/>
+  <rect x="784" y="0"   width="16" height="4"  fill="#c8860a"/>
+  <rect x="796" y="0"   width="4"  height="16" fill="#c8860a"/>
+  <rect x="0"   y="176" width="16" height="4"  fill="#c8860a"/>
+  <rect x="0"   y="164" width="4"  height="16" fill="#c8860a"/>
+  <rect x="784" y="176" width="16" height="4"  fill="#c8860a"/>
+  <rect x="796" y="164" width="4"  height="16" fill="#c8860a"/>
+
+  <text x="400" y="62" text-anchor="middle" font-family="'Courier New', monospace" font-size="38" font-weight="bold"
+        fill="url(#goldText)" filter="url(#glow)" letter-spacing="3">Jhon Zuluaga</text>
+
+  <text x="400" y="88" text-anchor="middle" font-family="'Courier New', monospace" font-size="13"
+        fill="#7ec8e3" letter-spacing="4">Backend  -  AI  -  RAG Systems</text>
+
+  <text x="680" y="22" font-family="monospace" font-size="11" fill="#ff6b6b">HP: [####....]</text>
+  <text x="680" y="36" font-family="monospace" font-size="11" fill="#4dabf7">MP: [###.....]</text>
 </svg>
