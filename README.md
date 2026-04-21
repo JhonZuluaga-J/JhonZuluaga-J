@@ -5,11 +5,11 @@
 
 <div align="center">
 
-<!-- EPIC BOSS BATTLE ANIMATION - SVG -->
+<!-- EPIC BOSS BATTLE - PIXEL ART STYLE -->
 
-<img src="./boss-battle.svg" width="800" alt="Epic Boss Battle: Summoner vs Legacy Monolith"/>
+<img src="./pixel-boss-battle.svg" width="640" alt="Pixel Art Boss Battle: Summoner vs Legacy Monolith"/>
 
-⚔️ Summoner dodges Thunder Strike, teleports above, and finishes with Elemental Slash! ⚔️
+⚔️ 8-bit style battle: Dodge → Teleport → Counter-Attack → VICTORY! ⚔️
 
 <br/>
 
