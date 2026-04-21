@@ -69,47 +69,26 @@ Git              █████████████████████
 
 ---
 
-## Featured Projects
+## Focus Areas
 
-### Task Management Platform
-| | |
-|:---|:---|
-| **Role** | Full Stack Developer |
-| **Description** | Collaborative task manager with real-time updates |
-| **Highlights** | JWT auth, PostgreSQL relationships, responsive UI |
-| **Stack** | Next.js · Node.js · PostgreSQL · Prisma · TailwindCSS |
-| **Link** | [github.com/JhonZuluaga-J/task-platform](https://github.com/JhonZuluaga-J) |
+| Practice | Description |
+|----------|-------------|
+| **Design-First** | Planning architecture before implementation |
+| **Test-Driven** | Automated tests as core development practice |
+| **Documentation** | Clear READMEs and inline documentation |
+| **Continuous Learning** | Regular exploration of new technologies |
 
 ---
 
-### E-Commerce Dashboard
-| | |
-|:---|:---|
-| **Role** | Frontend Developer |
-| **Description** | Analytics dashboard for online store management |
-| **Highlights** | Data visualization, export features, dark mode |
-| **Stack** | React · TypeScript · Recharts · TailwindCSS |
-| **Link** | [github.com/JhonZuluaga-J/dashboard](https://github.com/JhonZuluaga-J) |
+## What I'm Building
 
----
+Exploring **full-stack development** through hands-on practice:
 
-### API Gateway Service
-| | |
-|:---|:---|
-| **Role** | Backend Developer |
-| **Description** | Microservice handling authentication and rate limiting |
-| **Highlights** | Redis caching, Docker containerization, automated testing |
-| **Stack** | Node.js · Express · Redis · Docker · Jest |
-| **Link** | [github.com/JhonZuluaga-J/api-gateway](https://github.com/JhonZuluaga-J) |
+- **System Architecture** — Database design, API patterns, microservices
+- **DevOps & Deployment** — Docker, CI/CD, cloud infrastructure
+- **Performance** — Caching strategies, query optimization, load testing
 
----
-
-## How I Work
-
-- **Design-First**: I sketch architectures before writing code
-- **Test-Driven**: Every feature includes automated tests
-- **Documentation**: READMEs and inline comments for every project
-- **Continuous Learning**: Building one project per month to expand skills
+*Check my repositories for current work and experiments.*
 
 ---
 
