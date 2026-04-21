@@ -3,6 +3,90 @@
   Contact: jhonzuluagaj@gmail.com | GitHub: @JhonZuluaga-J
 -->
 
+<!-- EPIC BOSS BATTLE - CLEAN ASCII VERSION -->
+
+============================================================
+                     EPIC CODE BATTLE
+============================================================
+
+[FRAME 1: THE BOSS AWAKES]
+
+                    /============\
+                  /   ||    ||   \
+                 |  (o )    (o )  |
+                 |       ==       |
+                  \   \======/   /
+                   \____________/
+                      | |  | |
+                      | |  | |
+                    _|_|    |_|
+
+    BOSS: LEGACY MONOLITH
+    HP:    [████████████████████] 100%
+
+============================================================
+
+[FRAME 2: THUNDER STRIKE!]
+
+            \      /
+             \    /
+              \  /
+               \/          ZAP!
+               ||
+               ||  \
+               ||   \
+               ||    \
+               ||     \
+               ||      \  ~~~~~~~~~~~~>>
+               ||       \             >>
+               ||        \            >>
+               ||         \           >>
+
+============================================================
+
+[FRAME 3: EVADE + TELEPORT!]
+
+            \      /
+             \    /              *
+              \  /              * *
+               \/              *   *
+    WHOOSH!   ||      *      *     *    [SUMMONER DODGES]
+               ||    * *    *       *
+               ||   *   *  *   @   *   [@ = Summoner]
+               ||  *     **         *
+               || *       *         *
+               |*         *         *
+
+============================================================
+
+[FRAME 4: COUNTER STRIKE FROM ABOVE!]
+
+                    *  *  *
+                 *    BOOM!    *
+                    *  *  *
+                      | | |
+                      | | |
+                    \ | | | /
+                     \| | |/
+                 +=============+
+                /   x  x  x  x   \
+               |  (o )xxxx(o )  |      CRITICAL HIT!
+               |  xxxx == xxxx  |      DAMAGE: 9999
+                \ xxxx====xxxx /
+                 +==========+
+
+    BOSS: LEGACY MONOLITH
+    HP:    [████----------------] 20%  [DEFEATED!]
+
+============================================================
+
+              VICTORY! SYSTEM REFACTORED!
+
+         "Another legacy system destroyed."
+              - Jhon Zuluaga, Summoner
+
+============================================================
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Jhon%20Zuluaga&fontSize=55&fontColor=e94560&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=65&descSize=22"/>
