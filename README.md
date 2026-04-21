@@ -1,147 +1,158 @@
-<!-- Terraria Summoner Theme - GitHub Profile README -->
-<!-- USERNAME: mordeworti-lang -->
+<!-- Calamity Mod Theme - Senior Developer Profile -->
+<!-- USERNAME: JhonZuluaga-J -->
 
 <div align="center">
 
-<!-- Terraria-style header with pixel art via text -->
 ```
-╔══════════════════════════════════════════════════════════╗
-║  ☠️  A CORRUPTED DEVELOPER HAS AWOKEN  ☠️               ║
-║                                                          ║
-║  ❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️  500 / 500 HP                   ║
-║  ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐  200 / 200 MANA                  ║
-║  CLASS: Summoner  |  WORLD: Expert Mode  |  Post-ML      ║
-╚══════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║     THE EXO MECH HAS BEEN DEFEATED - SENIOR MODE             ║
+║                                                              ║
+║     CLASS: Code Architect  |  WORLD: Godseeker Mode          ║
+║     STATUS: Post-Yharim  |  BUFF: Code Quality +9000        ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
-# 👾 Jhon J. — `mordeworti-lang`
+# Jhon Zuluaga — `JhonZuluaga-J`
 
-**`Full Stack Developer // Summoner Class // Post-Moon Lord`**
+**`Senior Full Stack Developer // Code Architect // Calamity Veteran`**
 
-*"You feel an evil presence watching you..."*
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=C850C0&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%F0%9F%92%80;Next.js+%2B+TypeScript+Enjoyer;Supabase+%2B+SQL+Architect;Building+in+Expert+Mode...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Senior+Full+Stack+Developer;Next.js+%7C+TypeScript+%7C+System+Architecture;Mentoring+%7C+Clean+Code+%7C+DevOps;Godseeker+Mode+Engaged...)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
+## Senior Developer Attributes
+
+| Tier | Attribute | Level |
+|------|-----------|-------|
+| **Architecture** | System Design & Scalability | Master |
+| **Code Quality** | Clean Code & Best Practices | Legendary |
+| **Mentoring** | Team Leadership & Knowledge Sharing | Expert |
+| **Performance** | Optimization & Monitoring | Ascendant |
+| **DevOps** | CI/CD & Infrastructure | Exo-Tier |
+
+---
+
+## Arsenal Principal
+
+### Frontend - "Elemental Excalibur"
+```
+Next.js 15       ████████████████████████  Primary Weapon
+TypeScript       ████████████████████████  Always Equipped
+React            ██████████████████████░░  Secondary
+TailwindCSS      ████████████████████░░░░  Armor Set
+```
+
+### Backend & Data - "Auric Tesla Core"
+```
+Node.js          ████████████████████████  Core Engine
+PostgreSQL       ██████████████████████░░  Data Fortress
+Supabase         ████████████████████░░░░  Backend Shield
+Redis            ████████████████░░░░░░░░  Cache Layer
+```
+
+### DevOps & Tools - "Draedon's Arsenal"
+```
+Docker           ████████████████████░░░░  Container Engine
+CI/CD            ████████████████████░░░░  Automation Core
+Git              ████████████████████████  Version Control
+Linux            ██████████████████████░░  Server Mastery
+```
+
+---
+
+## Calamity Bosses Defeated (Milestones)
+
+```
+✅ Desert Scourge       → First Production Deployment
+✅ Cryogen              → Refactored Legacy Codebase
+✅ Aquatic Scourge      → Microservices Architecture
+✅ Brimstone Elemental  → Security Hardening
+✅ Calamitas            → High-Availability Systems
+✅ Astrum Deus          → Real-time Data Pipelines
+✅ Moon Lord            → Senior Promotion
+✅ The Devourer         → Multi-region Infrastructure
+✅ Yharon               → Tech Lead Achievement
+✅ Supreme Calamitas    → Principal Engineer
+```
+
+---
+
+## GitHub Dominance
+
 <div align="center">
 
-## ☠️ Summoner Stats
+![JhonZuluaga-J's GitHub stats](https://github-readme-stats.vercel.app/api?username=JhonZuluaga-J&show_icons=true&theme=vue-dark&title_color=00D4AA&icon_color=00D4AA&text_color=c9d1d9&bg_color=0d1117&border_color=00D4AA&include_all_commits=true&count_private=true)
 
-| Stat | Value |
-|------|-------|
-| 🌍 **World** | Full Stack — Large, Expert Mode |
-| ⚔️ **Class** | Summoner (Automation & DevOps) |
-| 🏆 **Boss Defeated** | Moon Lord ✅ |
-| 💬 **Main Languages** | TypeScript · Python · SQL |
-| 🌙 **Current Biome** | `src/` folder, deep underground |
-| 🕐 **Active Hours** | Night time (obviously) |
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JhonZuluaga-J&layout=compact&theme=vue-dark&title_color=00D4AA&text_color=c9d1d9&bg_color=0d1117&border_color=00D4AA&langs_count=8)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=JhonZuluaga-J&theme=vue-dark&background=0d1117&border=00D4AA&ring=00D4AA&fire=ff9500&currStreakLabel=00D4AA)
 
 </div>
 
 ---
 
-## 🧪 Tech Loadout
+## Current Encounters (Active Projects)
 
-> *These are the weapons in my inventory:*
+```typescript
+interface Project {
+  name: string;
+  stack: string;
+  difficulty: 'Expert' | 'Master' | 'Godseeker';
+  status: 'In Development' | 'Testing' | 'Production';
+}
 
-**⚗️ Frontend**
-```
-🔮 Next.js 14      ████████████████████  Main weapon
-💜 React           ████████████████░░░░  Secondary
-🟨 TypeScript      ████████████████████  Always equipped
-🎨 HTML / CSS      ███████████████░░░░░  Base gear
-```
-
-**🏗️ Backend & DB**
-```
-🟩 Node.js         ████████████████░░░░  Core runtime
-🚂 Express         ██████████████░░░░░░  API builder
-🐘 Supabase / SQL  ████████████████░░░░  Database of choice
-🐍 Python          ████████████░░░░░░░░  Scripting & automation
-```
-
-**🛠️ Tools & Config**
-```
-📦 npm             ████████████████████  Package manager
-⚡ Vite            ███████████████░░░░░  Dev server / bundler
-💅 Prettier        ████████████████░░░░  .prettierrc always present
-🧪 Vitest          █████████████░░░░░░░  Testing framework
-```
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![mordeworti-lang's GitHub stats](https://github-readme-stats.vercel.app/api?username=mordeworti-lang&show_icons=true&theme=radical&title_color=ff6ec7&icon_color=ff6ec7&text_color=ffffff&bg_color=0d1117&border_color=ff6ec7&hide_border=false&include_all_commits=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mordeworti-lang&layout=compact&theme=radical&title_color=ff6ec7&text_color=ffffff&bg_color=0d1117&border_color=ff6ec7&langs_count=8)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=mordeworti-lang&theme=radical&background=0d1117&border=ff6ec7&ring=ff6ec7&fire=ff9900&currStreakLabel=ff6ec7)
-
-</div>
-
----
-
-## 🐛 Current Summons (Active Projects)
-
-> *Minions deployed in the field:*
-
-```javascript
-const summons = [
-  { name: "🔮 Project TBD",   stack: "Next.js + Supabase",  status: "⚔️ In Progress" },
-  { name: "🌑 API Builder",   stack: "Express + TypeScript", status: "🔧 Crafting"    },
-  { name: "💀 Dark Project",  stack: "Python + Automation",  status: "🌙 Night build"  },
+const activeQuests: Project[] = [
+  { name: 'Enterprise Platform', stack: 'Next.js + Node + PostgreSQL', difficulty: 'Godseeker', status: 'In Development' },
+  { name: 'Legacy Migration', stack: 'TypeScript + Docker', difficulty: 'Master', status: 'Testing' },
+  { name: 'Mentorship Program', stack: 'Knowledge Transfer', difficulty: 'Expert', status: 'Production' },
 ];
 ```
 
 ---
 
-## 🗺️ Biome Map (Where I spend my time)
+## Expertise Biomes
 
 ```
-🌿 Forest       ████████░░  [ Next.js projects    ]
-🏔️ Underground  ██████░░░░  [ SQL & Supabase       ]
-🌑 Corruption   █████░░░░░  [ Python scripts       ]
-🌊 Ocean        ████░░░░░░  [ APIs & Express       ]
-☁️ Space        ███░░░░░░░  [ DevOps & automation  ]
+Frontend Architecture   ████████████████████░░░░  95%
+Backend Systems         ██████████████████████░░  90%
+Database Design         ████████████████████░░░░  85%
+DevOps & Cloud          ███████████████████░░░░░  80%
+Team Leadership         █████████████████████░░░  88%
+Code Review             ███████████████████████░  92%
 ```
 
 ---
 
-## 🧰 Full Inventory
+## Tech Stack
 
 <div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
 ---
 
-## 📬 Contact Portal
+## Contact
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhonzuluagaj@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mordeworti-lang)
+[![Gmail](https://img.shields.io/badge/jhonzuluagaj@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhonzuluagaj@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JhonZuluaga-J)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jhonzuluaga)
 
 </div>
 
@@ -150,16 +161,15 @@ const summons = [
 <div align="center">
 
 ```
-╔══════════════════════════════════════════╗
-║                                          ║
-║   "The Dungeon Guardian has been         ║
-║    defeated... but the code remains."    ║
-║                                          ║
-║        — mordeworti-lang, 2025           ║
-║                                          ║
-╚══════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║   "I never see what has been done; I only see what       ║
+║    remains to be done. The code is never finished,       ║
+║    only refactored."                                     ║
+║                                                          ║
+║              — Jhon Zuluaga, Code Architect              ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
 ```
-
-![Profile Views](https://komarev.com/ghpvc/?username=mordeworti-lang&color=ff6ec7&style=for-the-badge&label=ADVENTURERS+VISITED)
 
 </div>
