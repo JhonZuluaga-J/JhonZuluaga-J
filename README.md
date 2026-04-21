@@ -70,49 +70,38 @@ Kubernetes       █████████████████████
 
 ---
 
-## Notable Work
+## Selected Work
 
-```typescript
-/**
- * Selected projects demonstrating architectural impact
- */
+### Enterprise SaaS Platform
+| | |
+|:---|:---|
+| **Role** | Lead Architect |
+| **Challenge** | Legacy monolith with frequent outages and scaling limitations |
+| **Solution** | Event-driven microservices architecture with CQRS and event sourcing |
+| **Impact** | Scaled to 2M+ users, 99.99% uptime, 60% infrastructure cost reduction |
+| **Stack** | Next.js · Node.js · PostgreSQL · Redis · AWS · Kubernetes |
 
-interface Project {
-  name: string;
-  role: string;
-  challenge: string;
-  solution: string;
-  impact: string;
-  stack: string[];
-}
+---
 
-const portfolio: Project[] = [
-  {
-    name: "Enterprise SaaS Platform",
-    role: "Lead Architect",
-    challenge: "Legacy monolith, frequent outages, scaling limitations",
-    solution: "Event-driven microservices with CQRS and event sourcing",
-    impact: "Scaled to 2M+ users, 99.99% uptime, 60% cost reduction",
-    stack: ["Next.js", "Node.js", "PostgreSQL", "Redis", "AWS", "Kubernetes"]
-  },
-  {
-    name: "Developer Platform",
-    role: "Staff Engineer",
-    challenge: "Inconsistent tooling across 12 teams",
-    solution: "Monorepo with shared tooling, automated CI/CD",
-    impact: "40% faster onboarding, 80% reduction in config drift",
-    stack: ["Turborepo", "TypeScript", "GitHub Actions", "Docker"]
-  },
-  {
-    name: "Real-time Data Platform",
-    role: "Principal Engineer",
-    challenge: "Batch processing delays, stale analytics",
-    solution: "Streaming architecture with Kafka, real-time pipelines",
-    impact: "Sub-second data freshness, 10x throughput increase",
-    stack: ["Kafka", "PostgreSQL", "Redis", "Node.js", "Kubernetes"]
-  }
-];
-```
+### Developer Platform
+| | |
+|:---|:---|
+| **Role** | Staff Engineer |
+| **Challenge** | Inconsistent tooling across 12 engineering teams |
+| **Solution** | Monorepo strategy with shared tooling and automated CI/CD pipelines |
+| **Impact** | 40% faster developer onboarding, 80% reduction in configuration drift |
+| **Stack** | Turborepo · TypeScript · GitHub Actions · Docker |
+
+---
+
+### Real-time Data Platform
+| | |
+|:---|:---|
+| **Role** | Principal Engineer |
+| **Challenge** | Batch processing delays causing stale analytics and slow decisions |
+| **Solution** | Streaming architecture with Kafka and real-time data pipelines |
+| **Impact** | Sub-second data freshness, 10x throughput increase |
+| **Stack** | Kafka · PostgreSQL · Redis · Node.js · Kubernetes |
 
 ---
 
