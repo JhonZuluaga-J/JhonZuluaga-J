@@ -1,0 +1,34 @@
+name: Update HUD
+
+on:
+  schedule:
+    - cron: "0 2 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 18
+
+      - name: Build HUD SVG
+        run: node scripts/buildHud.js
+
+      - name: Commit if changed
+        run: |
+          if [[ $(git status --porcelain) ]]; then
+            git config --global user.name "github-actions[bot]"
+            git config --global user.email "github-actions[bot]@users.noreply.github.com"
+            git add assets/hud.svg
+            git commit -m "chore: update hud"
+            git push
+          else
+            echo "No changes to commit."
+          fi
