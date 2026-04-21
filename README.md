@@ -1,116 +1,124 @@
 <!--
-  Jhon Zuluaga — Senior Full Stack Developer & System Architect
+  Jhon Zuluaga — Full Stack Developer
   Contact: jhonzuluagaj@gmail.com | GitHub: @JhonZuluaga-J
 -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Jhon%20Zuluaga&fontSize=55&fontColor=e94560&animation=fadeIn&fontAlignY=40&desc=System%20Architect%20%7C%20Technical%20Leader&descAlignY=65&descSize=22"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Jhon%20Zuluaga&fontSize=55&fontColor=e94560&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=65&descSize=22"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=E94560&center=true&vCenter=true&width=800&lines=Designing%20Scalable%20Systems;Leading%20Engineering%20Teams;Building%20Enterprise%20Solutions;Architecture%20%7C%20Performance%20%7C%20Mentoring)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=E94560&center=true&vCenter=true&width=800&lines=Building%20Scalable%20Applications;Learning%20by%20Doing;Clean%20Code%20Advocate;Always%20Improving)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## Impact at Scale
+## What I Bring
 
 ```
-Users Served:      ████████████████████████████████████  2M+
-System Uptime:     ████████████████████████████████████  99.99%
-Cost Reduction:    ████████████████████████████████░░░░  60%
-Team Leadership:   █████████████████████████████████░░░  Led 15+ engineers
-Code Reviews:      ███████████████████████████████████░  500+ annually
+Code Quality:      ████████████████████████████████████  High Standards
+Problem Solving:   █████████████████████████████████░░░  Analytical Thinker
+Continuous Learning ████████████████████████████████░░  Self-Driven
+Collaboration:     ███████████████████████████████████░  Team Player
+Attention to Detail ██████████████████████████████████░░  Precision-Focused
 ```
 
-I architect enterprise systems and lead engineering teams to deliver high-performance, scalable solutions. My focus is on **system design**, **technical leadership**, and **developer experience** — enabling teams to build autonomously while maintaining architectural coherence.
+I build clean, maintainable applications with a focus on **user experience** and **code quality**. My approach is **learn-by-building**: every project is an opportunity to master new technologies and solve real problems.
 
 ---
 
-## Technical Expertise
+## Technical Skills
 
-| Domain | Specialization | Track Record |
-|--------|---------------|--------------|
-| **System Architecture** | Microservices, Event-Driven, CQRS, DDD | Platforms serving millions of users |
-| **Frontend Engineering** | Next.js, React, TypeScript | Sub-100ms load times, 95+ Lighthouse scores |
-| **Backend Systems** | Node.js, PostgreSQL, Redis | 99.99% uptime, <50ms response times |
-| **Cloud Infrastructure** | AWS, Docker, Kubernetes, CI/CD | 60% infrastructure cost reduction |
-| **Technical Leadership** | Architecture decisions, mentoring | 15+ developers promoted to senior |
-| **Developer Experience** | Tooling, testing, documentation | 40% faster onboarding |
+| Area | Technologies | Level |
+|------|-------------|-------|
+| **Frontend** | Next.js, React, TypeScript, TailwindCSS | Production-ready projects |
+| **Backend** | Node.js, Express, PostgreSQL, Redis | Multiple deployed applications |
+| **DevOps** | Docker, AWS basics, CI/CD with GitHub Actions | Hands-on experience |
+| **Testing** | Jest, Playwright, Vitest | TDD practitioner |
+| **Tools** | Git, Linux, VS Code, Figma | Daily workflow |
 
 ---
 
-## Competency Depth
+## Skill Proficiency
 
-### Languages & Core
+### Languages
 ```
-TypeScript       ████████████████████████████████████  Architecture Lead
-JavaScript       ████████████████████████████████████  Ecosystem Expert
-SQL              ██████████████████████████████████░░  Query Optimization
-Python           ████████████████████████████████░░░░  Automation & Tooling
+TypeScript       ████████████████████████████████░░░░  Most Used
+JavaScript       ████████████████████████████████░░░░  Strong Foundation
+SQL              ██████████████████████████████░░░░░░  Query Writing
+Python           ████████████████████████░░░░░░░░░░░░  Learning
 ```
 
 ### Frontend
 ```
-Next.js          ████████████████████████████████████  Production Systems
-React            ████████████████████████████████████  Component Architecture
-TypeScript       ████████████████████████████████████  Type-Safe Design
-Testing          ████████████████████████████████░░  TDD & Integration
+Next.js          ████████████████████████████████░░░░  Primary Framework
+React            ████████████████████████████████░░░░  Component Design
+TypeScript       ████████████████████████████████░░░░  Type Safety
+TailwindCSS      ████████████████████████████░░░░░░░░  Styling
+Testing          ██████████████████████████░░░░░░░░░░  Growing
 ```
 
-### Backend & Infrastructure
+### Backend & Tools
 ```
-Node.js          ████████████████████████████████████  Distributed Systems
-PostgreSQL       █████████████████████████████████░░░  Performance Tuning
-Redis            ████████████████████████████████░░░░  Caching Strategy
-Docker           ████████████████████████████████░░░░  Container Orchestration
-AWS              ██████████████████████████████░░░░░░  Cloud Architecture
-Kubernetes       ████████████████████████████░░░░░░░░  Production Scale
+Node.js          ████████████████████████████████░░░░  API Development
+PostgreSQL       ████████████████████████████░░░░░░░░  Database Design
+Redis            ██████████████████████████░░░░░░░░░░  Caching
+Docker           ████████████████████████░░░░░░░░░░░░  Containerization
+Git              ████████████████████████████████░░░░  Version Control
 ```
 
 ---
 
-## Selected Work
+## Featured Projects
 
-### Enterprise SaaS Platform
+### Task Management Platform
 | | |
 |:---|:---|
-| **Role** | Lead Architect |
-| **Challenge** | Legacy monolith with frequent outages and scaling limitations |
-| **Solution** | Event-driven microservices architecture with CQRS and event sourcing |
-| **Impact** | Scaled to 2M+ users, 99.99% uptime, 60% infrastructure cost reduction |
-| **Stack** | Next.js · Node.js · PostgreSQL · Redis · AWS · Kubernetes |
+| **Role** | Full Stack Developer |
+| **Description** | Collaborative task manager with real-time updates |
+| **Highlights** | JWT auth, PostgreSQL relationships, responsive UI |
+| **Stack** | Next.js · Node.js · PostgreSQL · Prisma · TailwindCSS |
+| **Link** | [github.com/JhonZuluaga-J/task-platform](https://github.com/JhonZuluaga-J) |
 
 ---
 
-### Developer Platform
+### E-Commerce Dashboard
 | | |
 |:---|:---|
-| **Role** | Staff Engineer |
-| **Challenge** | Inconsistent tooling across 12 engineering teams |
-| **Solution** | Monorepo strategy with shared tooling and automated CI/CD pipelines |
-| **Impact** | 40% faster developer onboarding, 80% reduction in configuration drift |
-| **Stack** | Turborepo · TypeScript · GitHub Actions · Docker |
+| **Role** | Frontend Developer |
+| **Description** | Analytics dashboard for online store management |
+| **Highlights** | Data visualization, export features, dark mode |
+| **Stack** | React · TypeScript · Recharts · TailwindCSS |
+| **Link** | [github.com/JhonZuluaga-J/dashboard](https://github.com/JhonZuluaga-J) |
 
 ---
 
-### Real-time Data Platform
+### API Gateway Service
 | | |
 |:---|:---|
-| **Role** | Principal Engineer |
-| **Challenge** | Batch processing delays causing stale analytics and slow decisions |
-| **Solution** | Streaming architecture with Kafka and real-time data pipelines |
-| **Impact** | Sub-second data freshness, 10x throughput increase |
-| **Stack** | Kafka · PostgreSQL · Redis · Node.js · Kubernetes |
+| **Role** | Backend Developer |
+| **Description** | Microservice handling authentication and rate limiting |
+| **Highlights** | Redis caching, Docker containerization, automated testing |
+| **Stack** | Node.js · Express · Redis · Docker · Jest |
+| **Link** | [github.com/JhonZuluaga-J/api-gateway](https://github.com/JhonZuluaga-J) |
 
 ---
 
-## GitHub Metrics
+## How I Work
+
+- **Design-First**: I sketch architectures before writing code
+- **Test-Driven**: Every feature includes automated tests
+- **Documentation**: READMEs and inline comments for every project
+- **Continuous Learning**: Building one project per month to expand skills
+
+---
+
+## GitHub Activity
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JhonZuluaga-J&show_icons=true&theme=react&title_color=e94560&icon_color=e94560&text_color=c9d1d9&bg_color=0d1117&border_color=30363d&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonZuluaga-J&layout=compact&theme=react&title_color=e94560&text_color=c9d1d9&bg_color=0d1117&border_color=30363d&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JhonZuluaga-J&show_icons=true&theme=react&title_color=e94560&icon_color=e94560&text_color=c9d1d9&bg_color=0d1117&border_color=30363d"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonZuluaga-J&layout=compact&theme=react&title_color=e94560&text_color=c9d1d9&bg_color=0d1117&border_color=30363d&langs_count=6"/>
 
 <br/>
 
@@ -131,32 +139,23 @@ Kubernetes       █████████████████████
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
 ---
 
-## Operating Principles
+## Currently Learning
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────┐
 │                                                                         │
-│  "I don't write all the code. I design systems that enable teams to    │
-│   build autonomously while maintaining architectural coherence."        │
+│  🎯 Advanced System Design — Distributed systems patterns               │
+│  🎯 Cloud Architecture — AWS certification path                         │
+│  🎯 Performance Optimization — Caching, indexing, load balancing      │
 │                                                                         │
 └─────────────────────────────────────────────────────────────────────────┘
 ```
-
-| Principle | Practice |
-|-----------|----------|
-| **System Design** | Start with constraints, end with measurable outcomes |
-| **Code Quality** | Optimize for readability and maintainability |
-| **Leadership** | Multiply impact through mentoring and delegation |
-| **Pragmatism** | Ship working solutions, iterate toward excellence |
-| **Metrics** | Decisions driven by data, not intuition |
 
 ---
 
@@ -176,4 +175,4 @@ Kubernetes       █████████████████████
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=150&section=footer&text=Open%20to%20Architecture%20%26%20Leadership%20Roles&fontSize=20&fontColor=e94560&fontAlignY=80"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=150&section=footer&text=Open%20to%20Opportunities&fontSize=24&fontColor=e94560&fontAlignY=80"/>
