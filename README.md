@@ -5,11 +5,11 @@
 
 <div align="center">
 
-<!-- EPIC BOSS BATTLE - PIXEL ART STYLE -->
+<!-- PACMAN GAME -->
 
-<img src="./pixel-boss-battle.svg" width="640" alt="Pixel Art Boss Battle: Summoner vs Legacy Monolith"/>
+<img src="./pacman-game.svg" width="600" alt="Pacman Game with Ghosts"/>
 
-⚔️ 8-bit style battle: Dodge → Teleport → Counter-Attack → VICTORY! ⚔️
+*🎮 Watch Pacman chase those commits! 🎮*
 
 <br/>
 
@@ -112,6 +112,12 @@ Exploring **full-stack development** through hands-on practice:
 <img src="https://streak-stats.demolab.com?user=JhonZuluaga-J&theme=react&background=0d1117&border=30363d&ring=e94560&fire=e94560&currStreakLabel=e94560"/>
 
 </div>
+
+---
+
+## Contribution Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JhonZuluaga-J&theme=react-dark&bg_color=0d1117&color=e94560&line=e94560&point=ffffff&area=true&hide_border=true)](https://github.com/JhonZuluaga-J)
 
 ---
 
