@@ -97,13 +97,15 @@ const svg = `<svg width="760" height="260" xmlns="http://www.w3.org/2000/svg">
   <rect x="745" y="253" width="10" height="2"  fill="#ffe066" opacity="0.8"/>
   <rect x="758" y="245" width="2"  height="10" fill="#ffe066" opacity="0.8"/>
 
-  <rect x="0" y="0" width="760" height="46" fill="#000000" opacity="0.3" rx="4"/>
-  <rect x="16" y="44" width="728" height="1" fill="#c8860a" opacity="0.5"/>
-  <rect x="370" y="41" width="6" height="6" fill="#c8860a" transform="rotate(45 373 44)"/>
-  <rect x="16"  y="41" width="6" height="6" fill="#c8860a" transform="rotate(45 19 44)"/>
-  <rect x="736" y="41" width="6" height="6" fill="#c8860a" transform="rotate(45 739 44)"/>
+  <rect x="0" y="0" width="760" height="46" fill="#1a0a00" opacity="0.9" rx="4"/>
+  <rect x="0" y="0" width="760" height="46" fill="none" stroke="#8B4513" stroke-width="2" rx="4"/>
+  <rect x="8" y="8" width="744" height="30" fill="none" stroke="#D2691E" stroke-width="1" rx="2" opacity="0.5"/>
+  <rect x="16" y="44" width="728" height="2" fill="#CD853F" opacity="0.8"/>
+  <rect x="370" y="40" width="8" height="8" fill="#FFD700" transform="rotate(45 374 44)"/>
+  <rect x="14"  y="40" width="8" height="8" fill="#FFD700" transform="rotate(45 18 44)"/>
+  <rect x="734" y="40" width="8" height="8" fill="#FFD700" transform="rotate(45 738 44)"/>
   <text x="380" y="30" text-anchor="middle" font-family="'Courier New', Courier, monospace"
-        font-size="16" font-weight="bold" letter-spacing="6" fill="#c8860a" filter="url(#titleGlow)">PLAYER  STATUS</text>
+        font-size="18" font-weight="bold" letter-spacing="4" fill="#FFD700" filter="url(#titleGlow)" stroke="#8B4513" stroke-width="0.5">TERRARIA HUD</text>
 
   <text x="20" y="80" font-family="'Courier New', monospace" font-size="13" font-weight="bold" fill="#ff6b6b">HP</text>
   <text x="46" y="80" font-family="monospace" font-size="11" fill="#ff6b6b" opacity="0.9">&#9829;&#9829;&#9829;&#9829;&#9829;</text>
