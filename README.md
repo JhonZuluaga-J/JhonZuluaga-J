@@ -1,110 +1,123 @@
 <div align="center">
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0A0A0A&height=1&reversal=false&section=header" width="100%">
 
-<pre>
-┌────────────────────────────────────────┐
-│                                        │
-│     J H O N   Z U L U A G A            │
-│                                        │
-│     Backend Engineer                   │
-│     AI Systems · RAG Architecture      │
-│                                        │
-└────────────────────────────────────────┘
-</pre>
-
-<br/>
+<br/><br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=4000&pause=1500&color=C9A961&center=true&vCenter=true&width=500&lines=Retrieval+systems+that+scale;Query+%E2%86%92+Context+%E2%86%92+Response;Engineering+for+production" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=42&duration=3000&pause=2000&color=D4AF37&center=true&vCenter=true&width=600&lines=JHON+ZULUAGA" alt="Name" />
 </a>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A0A0A)](https://linkedin.com/in/jhonzuluaga)
-[![Email](https://img.shields.io/badge/Email-C9A961?style=flat-square&logo=gmail&logoColor=white&labelColor=0A0A0A)](mailto:jhon.zuluaga.dev@gmail.com)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&size=22&duration=5000&pause=2000&color=B8860B&center=true&vCenter=true&width=550&lines=Backend+Engineer+%7C+AI+Systems;RAG+Architecture+%C2%B7+Vector+Infrastructure;Precision+in+every+pipeline" alt="Title" />
+</a>
+
+<br/><br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=B8860B&labelColor=0d0d0d)](https://linkedin.com/in/jhonzuluaga)
+[![Email](https://img.shields.io/badge/Contact-1a1a1a?style=for-the-badge&logo=gmail&logoColor=B8860B&labelColor=0d0d0d)](mailto:jhon.zuluaga.dev@gmail.com)
 
 <br/>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0A0A0A&height=1&reversal=false&section=header" width="100%">
+
+</div>
+
+## Philosophy
+
+> *"The difference between good code and great code is the difference between what works and what endures."*
+
+I architect systems that bridge structured data to artificial intelligence. My domain is **Retrieval-Augmented Generation** — the precise engineering required to transform queries into context, and context into insight.
+
+**Operating Principles**
+- Data integrity above all else
+- Performance through intelligent design, not brute force
+- Systems that sustain load, not merely survive demos
+
+**Current Focus**
+Production-grade conversational AI: document ingestion, semantic vectorization, relevance-ranked retrieval, and LLM-orchestrated response generation via Supabase, pgvector, and OpenAI.
+
+---
+
+## Signature Build
+
+### Conversational Intelligence Platform
+
+A complete RAG ecosystem. Natural language enters. Relevant knowledge is retrieved from vectorized stores. Context is assembled with precision. Intelligence emerges.
+
+| Capability | Status |
+|------------|--------|
+| Document ingestion pipeline | **Operational** |
+| Semantic embedding storage | **Operational** |
+| Vector similarity search | **Operational** |
+| Context assembly layer | **Operational** |
+| LLM response orchestration | **Operational** |
+| Performance optimization | *Refinement phase* |
+
+**Stack**: Supabase · pgvector · OpenAI · TypeScript · Node.js
+
+---
+
+## Arsenal
+
+<div align="center">
+
+**Primary Weapons**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-0d0d0d?style=for-the-badge&logo=typescript&logoColor=D4AF37&labelColor=1a1a1a)
+![Node.js](https://img.shields.io/badge/Node.js-0d0d0d?style=for-the-badge&logo=nodedotjs&logoColor=D4AF37&labelColor=1a1a1a)
+![Express](https://img.shields.io/badge/Express-0d0d0d?style=for-the-badge&logo=express&logoColor=D4AF37&labelColor=1a1a1a)
+
+**Intelligence Infrastructure**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0d0d?style=for-the-badge&logo=postgresql&logoColor=B8860B&labelColor=1a1a1a)
+![Supabase](https://img.shields.io/badge/Supabase-0d0d0d?style=for-the-badge&logo=supabase&logoColor=B8860B&labelColor=1a1a1a)
+![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=B8860B&labelColor=1a1a1a)
+
+**Architecture Suite**
+
+![Next.js](https://img.shields.io/badge/Next.js-0d0d0d?style=for-the-badge&logo=nextdotjs&logoColor=888888&labelColor=1a1a1a)
+![Prisma](https://img.shields.io/badge/Prisma-0d0d0d?style=for-the-badge&logo=prisma&logoColor=888888&labelColor=1a1a1a)
+![Vitest](https://img.shields.io/badge/Vitest-0d0d0d?style=for-the-badge&logo=vitest&logoColor=888888&labelColor=1a1a1a)
+
+**In Development**
+
+![React](https://img.shields.io/badge/React-0d0d0d?style=for-the-badge&logo=react&logoColor=666666&labelColor=1a1a1a)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-0d0d0d?style=for-the-badge&logo=tailwindcss&logoColor=666666&labelColor=1a1a1a)
+![Ollama](https://img.shields.io/badge/Ollama-0d0d0d?style=for-the-badge&logo=ollama&logoColor=666666&labelColor=1a1a1a)
+
 </div>
 
 ---
 
-## About
+## Domains of Expertise
 
-Backend engineer specialized in **Retrieval-Augmented Generation systems**. I design the infrastructure that connects data to intelligence — vector search pipelines, context assembly layers, and LLM interfaces that operate at production scale.
-
-My approach is methodical: correctness of data flow first, performance second, elegance third. I build systems that must function under real operational constraints, not merely demonstrate well in controlled environments.
-
-Currently architecting conversational AI systems with Supabase, pgvector, and OpenAI — handling the complete cycle from document ingestion to semantic retrieval to contextualized response generation.
-
----
-
-## Current Work
-
-**Conversational AI System** — *In Production*
-
-A retrieval-augmented chatbot architecture connecting vectorized knowledge bases to language model reasoning. The system processes natural language queries, retrieves semantically relevant context from a pgvector-enabled PostgreSQL database, assembles optimized prompts, and generates contextualized responses via OpenAI's API.
-
-**Capabilities Delivered:**
-- Document ingestion and embedding management (CRUD-complete)
-- Semantic search with vector similarity scoring
-- Context window optimization and prompt assembly
-- Streaming response architecture
-
-**Active Development:** Relevance scoring refinement and latency optimization for production deployment.
+```
+┌─────────────────────────────────────────────────────────────┐
+│  RETRIEVAL ARCHITECTURE                                     │
+│  Vector search · Semantic scoring · Context assembly        │
+├─────────────────────────────────────────────────────────────┤
+│  AI SYSTEMS INTEGRATION                                     │
+│  RAG pipelines · LLM orchestration · Prompt engineering     │
+├─────────────────────────────────────────────────────────────┤
+│  DATA INFRASTRUCTURE                                        │
+│  PostgreSQL · pgvector · Embedding workflows                  │
+├─────────────────────────────────────────────────────────────┤
+│  BACKEND ENGINEERING                                        │
+│  API architecture · TypeScript ecosystems · Production ops  │
+└─────────────────────────────────────────────────────────────┘
+```
 
 ---
 
-## Technical Competencies
+## Performance Metrics
 
 <div align="center">
 
-**Core Technologies**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=0A0A0A)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=0A0A0A)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white&labelColor=0A0A0A)
-
-**AI & Data Systems**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0A0A0A)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white&labelColor=0A0A0A)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white&labelColor=0A0A0A)
-
-**Architecture & Tooling**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white&labelColor=0A0A0A)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white&labelColor=0A0A0A)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white&labelColor=0A0A0A)
-
-**Expanding Into**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=0A0A0A)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white&labelColor=0A0A0A)
-![Ollama](https://img.shields.io/badge/Ollama-C9A961?style=flat-square&logo=ollama&logoColor=white&labelColor=0A0A0A)
-
-</div>
-
----
-
-## Specializations
-
-| Domain | Focus |
-|--------|-------|
-| **Retrieval Systems** | Vector search · Semantic relevance · Context assembly |
-| **AI Infrastructure** | RAG pipelines · LLM integration · Prompt architecture |
-| **Data Engineering** | PostgreSQL · pgvector · Embedding pipelines |
-| **Backend Systems** | API design · TypeScript/Node.js · Production scaling |
-
----
-
-## GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=JhonZuluaga-J&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=C9A961&icon_color=C9A961&text_color=E5E5E5&ring_color=C9A961&hide=issues&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonZuluaga-J&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=C9A961&text_color=E5E5E5&langs_count=6" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=JhonZuluaga-J&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=D4AF37&icon_color=D4AF37&text_color=c0c0c0&ring_color=B8860B&hide=issues,contribs&count_private=true&custom_title=Engineering+Metrics" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonZuluaga-J&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=D4AF37&text_color=c0c0c0&langs_count=8&custom_title=Language+Distribution" />
 
 </div>
 
@@ -115,19 +128,23 @@ A retrieval-augmented chatbot architecture connecting vectorized knowledge bases
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JhonZuluaga-J/JhonZuluaga-J/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JhonZuluaga-J/JhonZuluaga-J/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/JhonZuluaga-J/JhonZuluaga-J/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="contribution-visualization" src="https://raw.githubusercontent.com/JhonZuluaga-J/JhonZuluaga-J/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0A0A0A&height=1&reversal=false&section=footer" width="100%">
+
 <br/>
 
----
+<pre style="font-family: 'Cinzel', serif;">
+<i>"Precision is not just a virtue. It is the foundation."</i>
 
-<br/>
-
-<pre>
-   "Manners maketh man. Code maketh systems."
-            
-              Jhon Zuluaga · Backend Engineer
+         Jhon Zuluaga · Backend Engineer · AI Systems
 </pre>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0A0A0A&height=1&reversal=false&section=footer" width="100%">
 
 </div>
