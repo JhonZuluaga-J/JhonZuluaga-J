@@ -123,13 +123,19 @@ A complete RAG ecosystem. Natural language enters. Relevant knowledge is retriev
 
 ---
 
+## Achievement Gallery
+
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JhonZuluaga-J/JhonZuluaga-J/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JhonZuluaga-J/JhonZuluaga-J/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution-visualization" src="https://raw.githubusercontent.com/JhonZuluaga-J/JhonZuluaga-J/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+<img src="https://github-profile-trophy.vercel.app/?username=JhonZuluaga-J&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4" alt="trophies" />
+
+<br/><br/>
+
+<img height="150" src="https://streak-stats.demolab.com?user=JhonZuluaga-J&theme=dark&hide_border=true&background=0d0d0d&stroke=B8860B&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=c0c0c0&currStreakNum=c0c0c0&sideNums=c0c0c0&dates=666666" alt="streak" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JhonZuluaga-J&bg_color=0d0d0d&color=c0c0c0&line=B8860B&point=D4AF37&area=true&hide_border=true&area_color=B8860B15" alt="activity-graph" />
 
 <br/><br/>
 
