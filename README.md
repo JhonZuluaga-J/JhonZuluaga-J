@@ -127,7 +127,7 @@ A complete RAG ecosystem. Natural language enters. Relevant knowledge is retriev
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=JhonZuluaga-J&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4" alt="trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=JhonZuluaga-J&theme=flat&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 
 <br/><br/>
 
