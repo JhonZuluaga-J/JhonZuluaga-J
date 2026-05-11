@@ -139,8 +139,6 @@ A complete RAG ecosystem. Natural language enters. Relevant knowledge is retriev
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0A0A0A&height=1&reversal=false&section=footer" width="100%">
-
 <br/>
 
 <pre style="font-family: 'Cinzel', serif;">
