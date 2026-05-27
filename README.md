@@ -11,7 +11,7 @@
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&size=22&duration=5000&pause=2000&color=B8860B&center=true&vCenter=true&width=550&lines=Backend+Engineer+%7C+AI+Systems;RAG+Architecture+%C2%B7+Vector+Infrastructure;Precision+in+every+pipeline" alt="Title" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&size=22&duration=5000&pause=2000&color=B8860B&center=true&vCenter=true&width=550&lines=Full+Stack+Engineer+%7C+TypeScript+%7C+Next.js;Clean+Architecture+%C2%B7+RAG+Systems;Building+systems+that+endure" alt="Title" />
 </a>
 
 <br/><br/>
@@ -29,7 +29,7 @@
 
 > *"The difference between good code and great code is the difference between what works and what endures."*
 
-I architect systems that bridge structured data to artificial intelligence. My domain is **Retrieval-Augmented Generation** — the precise engineering required to transform queries into context, and context into insight.
+I build full-stack systems with a strong focus on clean architecture and AI integration. My current domain is **Retrieval-Augmented Generation** — engineering the pipeline that transforms raw documents into structured knowledge and delivers precise, context-aware responses.
 
 **Operating Principles**
 - Data integrity above all else
@@ -37,15 +37,15 @@ I architect systems that bridge structured data to artificial intelligence. My d
 - Systems that sustain load, not merely survive demos
 
 **Current Focus**
-Production-grade conversational AI: document ingestion, semantic vectorization, relevance-ranked retrieval, and LLM-orchestrated response generation via Supabase, pgvector, and OpenAI.
+A production-grade SaaS productivity platform: JWT auth with Redis fail-closed, Scheduler Engine, scoring system, OpenAI RAG with pgvector memory, PWA offline support, and Stripe billing.
 
 ---
 
 ## Signature Build
 
-### Conversational Intelligence Platform
+### Legal Intelligence Chatbot
 
-A complete RAG ecosystem. Natural language enters. Relevant knowledge is retrieved from vectorized stores. Context is assembled with precision. Intelligence emerges.
+A functional RAG system built over a legal knowledge base. Documents are ingested, chunked, and vectorized. Queries trigger semantic search over embeddings. Context is assembled and passed to the LLM for precise, grounded responses.
 
 | Capability | Status |
 |------------|--------|
@@ -54,9 +54,24 @@ A complete RAG ecosystem. Natural language enters. Relevant knowledge is retriev
 | Vector similarity search | **Operational** |
 | Context assembly layer | **Operational** |
 | LLM response orchestration | **Operational** |
-| Performance optimization | *Refinement phase* |
+| Auth + Frontend | *In development* |
 
 **Stack**: Supabase · pgvector · OpenAI · TypeScript · Node.js
+
+---
+
+### Productivity SaaS Platform
+
+A complete personal productivity system with real server-side timers, conflict resolution, discipline scoring, and longitudinal AI memory. Fully documented with ADRs, DB schema, user stories, and Definition of Done.
+
+| Module | Status |
+|--------|--------|
+| Domain layer + Use Cases | **Complete** |
+| Auth (JWT + Redis fail-closed) | *In development* |
+| Scheduler Engine | *In development* |
+| Frontend + PWA | *In development* |
+
+**Stack**: Next.js 14 · TypeScript · PostgreSQL · Prisma · Redis · OpenAI · Stripe
 
 ---
 
@@ -64,87 +79,61 @@ A complete RAG ecosystem. Natural language enters. Relevant knowledge is retriev
 
 <div align="center">
 
-**Primary Weapons**
+**Primary**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-0d0d0d?style=for-the-badge&logo=typescript&logoColor=D4AF37&labelColor=1a1a1a)
+![Next.js](https://img.shields.io/badge/Next.js-0d0d0d?style=for-the-badge&logo=nextdotjs&logoColor=D4AF37&labelColor=1a1a1a)
 ![Node.js](https://img.shields.io/badge/Node.js-0d0d0d?style=for-the-badge&logo=nodedotjs&logoColor=D4AF37&labelColor=1a1a1a)
-![Express](https://img.shields.io/badge/Express-0d0d0d?style=for-the-badge&logo=express&logoColor=D4AF37&labelColor=1a1a1a)
 
-**Intelligence Infrastructure**
+**Data & AI**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0d0d?style=for-the-badge&logo=postgresql&logoColor=B8860B&labelColor=1a1a1a)
 ![Supabase](https://img.shields.io/badge/Supabase-0d0d0d?style=for-the-badge&logo=supabase&logoColor=B8860B&labelColor=1a1a1a)
-![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=B8860B&labelColor=1a1a1a)
+![Prisma](https://img.shields.io/badge/Prisma-0d0d0d?style=for-the-badge&logo=prisma&logoColor=B8860B&labelColor=1a1a1a)
 
-**Architecture Suite**
+**Frontend**
 
-![Next.js](https://img.shields.io/badge/Next.js-0d0d0d?style=for-the-badge&logo=nextdotjs&logoColor=888888&labelColor=1a1a1a)
-![Prisma](https://img.shields.io/badge/Prisma-0d0d0d?style=for-the-badge&logo=prisma&logoColor=888888&labelColor=1a1a1a)
-![Vitest](https://img.shields.io/badge/Vitest-0d0d0d?style=for-the-badge&logo=vitest&logoColor=888888&labelColor=1a1a1a)
+![React](https://img.shields.io/badge/React-0d0d0d?style=for-the-badge&logo=react&logoColor=888888&labelColor=1a1a1a)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-0d0d0d?style=for-the-badge&logo=tailwindcss&logoColor=888888&labelColor=1a1a1a)
 
 **In Development**
 
-![React](https://img.shields.io/badge/React-0d0d0d?style=for-the-badge&logo=react&logoColor=666666&labelColor=1a1a1a)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-0d0d0d?style=for-the-badge&logo=tailwindcss&logoColor=666666&labelColor=1a1a1a)
+![Redis](https://img.shields.io/badge/Redis-0d0d0d?style=for-the-badge&logo=redis&logoColor=666666&labelColor=1a1a1a)
+![Stripe](https://img.shields.io/badge/Stripe-0d0d0d?style=for-the-badge&logo=stripe&logoColor=666666&labelColor=1a1a1a)
 ![Ollama](https://img.shields.io/badge/Ollama-0d0d0d?style=for-the-badge&logo=ollama&logoColor=666666&labelColor=1a1a1a)
 
 </div>
 
 ---
 
-## Domains of Expertise
+## Domains
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│  RETRIEVAL ARCHITECTURE                                     │
-│  Vector search · Semantic scoring · Context assembly        │
+│  CLEAN ARCHITECTURE                                         │
+│  Domain entities · Use Cases · DTOs · Mappers               │
 ├─────────────────────────────────────────────────────────────┤
-│  AI SYSTEMS INTEGRATION                                     │
-│  RAG pipelines · LLM orchestration · Prompt engineering     │
+│  RAG SYSTEMS                                                │
+│  Embedding pipelines · Vector search · Context assembly     │
 ├─────────────────────────────────────────────────────────────┤
 │  DATA INFRASTRUCTURE                                        │
-│  PostgreSQL · pgvector · Embedding workflows                  │
+│  PostgreSQL · pgvector · Prisma ORM · Redis                 │
 ├─────────────────────────────────────────────────────────────┤
-│  BACKEND ENGINEERING                                        │
-│  API architecture · TypeScript ecosystems · Production ops  │
+│  FULL STACK ENGINEERING                                     │
+│  Next.js · TypeScript · REST APIs · Auth systems            │
 └─────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## Performance Metrics
-
 <div align="center">
-
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=JhonZuluaga-J&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=D4AF37&icon_color=D4AF37&text_color=c0c0c0&ring_color=B8860B&hide=issues,contribs&count_private=true&custom_title=Engineering+Metrics" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonZuluaga-J&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=D4AF37&text_color=c0c0c0&langs_count=8&custom_title=Language+Distribution" />
-
-</div>
-
----
-
-## Achievement Gallery
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=JhonZuluaga-J&theme=flat&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10" alt="GitHub Trophies" />
-
-<br/><br/>
-
-<img height="150" src="https://streak-stats.demolab.com?user=JhonZuluaga-J&theme=dark&hide_border=true&background=0d0d0d&stroke=B8860B&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=c0c0c0&currStreakNum=c0c0c0&sideNums=c0c0c0&dates=666666" alt="streak" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JhonZuluaga-J&bg_color=0d0d0d&color=c0c0c0&line=B8860B&point=D4AF37&area=true&hide_border=true&area_color=B8860B15" alt="activity-graph" />
-
-<br/><br/>
 
 <br/>
 
 <pre style="font-family: 'Cinzel', serif;">
 <i>"Precision is not just a virtue. It is the foundation."</i>
 
-         Jhon Zuluaga · Backend Engineer · AI Systems
+         Jhon Zuluaga · Full Stack Engineer · AI Systems
 </pre>
 
 <br/>
