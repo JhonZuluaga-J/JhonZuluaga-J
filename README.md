@@ -17,7 +17,8 @@
 <br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=B8860B&labelColor=0d0d0d)](https://www.linkedin.com/in/jhon-stiven-zuluaga-jaramillo-/)
-[![Email](https://img.shields.io/badge/Contact-1a1a1a?style=for-the-badge&logo=gmail&logoColor=B8860B&labelColor=0d0d0d)](mailto:jhonzuluagajv@gmail.com)
+[![Email](https://img.shields.io/badge/Contact-1a1a1a?style=for-the-badge&logo=gmail&logoColor=B8860B&labelColor=0d0d0d)](https://mail.google.com/mail/?view=cm&fs=1&to=jhonzuluagajv@gmail.com)
+
 
 <br/>
 
