@@ -11,7 +11,7 @@
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&size=22&duration=5000&pause=2000&color=B8860B&center=true&vCenter=true&width=550&lines=Full+Stack+Engineer+%7C+TypeScript+%7C+Next.js;Clean+Architecture+%C2%B7+RAG+Systems;Building+systems+that+endure" alt="Title" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&size=22&duration=5000&pause=2000&color=B8860B&center=true&vCenter=true&width=550&lines=Full+Stack+%7C+TypeScript+%7C+Next.js;Clean+Architecture+%C2%B7+RAG+Systems;Building+systems+that+endure" alt="Title" />
 </a>
 
 <br/><br/>
